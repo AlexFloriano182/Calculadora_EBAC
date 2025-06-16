@@ -10,7 +10,10 @@ Executando o programa:
 - No terminal do Ubuntu cola o codigo
 Depois basta executar ./Python3 Nova_Calculadora.py
 Digite o primeiro valor, qual equação deseja e o segundo valor.
-Após isso, aparecerá na tela o resultado.Set Up: Ubuntu, versão Ubuntu 20.04.6 LTS
+Após isso, aparecerá na tela o resultado.
+
+para a versão Shell, basta digitar no ubuntu:
+./Nova_calculadora.sh 
 
 Executando o programa:
 
